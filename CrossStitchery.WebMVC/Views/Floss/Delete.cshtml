@@ -1,0 +1,56 @@
+﻿@model CrossStitchery.Models.FlossDetail
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>FlossDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FlossId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FlossId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ColorNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ColorNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ColorName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ColorName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BobbinAmount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BobbinAmount)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

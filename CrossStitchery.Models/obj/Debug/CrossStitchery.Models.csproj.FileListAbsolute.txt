@@ -1,0 +1,16 @@
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\CrossStitchery.Models.dll.config
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\CrossStitchery.Models.dll
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\CrossStitchery.Models.pdb
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\EntityFramework.dll
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\EntityFramework.xml
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\CrossStitchery\CrossStitchery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CrossStitchery\CrossStitchery.Models\obj\Debug\CrossStitchery.Models.csproj.AssemblyReference.cache
+E:\CrossStitchery\CrossStitchery.Models\obj\Debug\CrossStitchery.Models.csproj.CoreCompileInputs.cache
+E:\CrossStitchery\CrossStitchery.Models\obj\Debug\CrossStitchery.Models.csproj.CopyComplete
+E:\CrossStitchery\CrossStitchery.Models\obj\Debug\CrossStitchery.Models.dll
+E:\CrossStitchery\CrossStitchery.Models\obj\Debug\CrossStitchery.Models.pdb
