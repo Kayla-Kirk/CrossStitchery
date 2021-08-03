@@ -1,10 +1,16 @@
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Services.dll.config
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Services.dll
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Services.pdb
+E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Data.dll
+E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Models.dll
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\EntityFramework.dll
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\EntityFramework.SqlServer.dll
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Data.pdb
+E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Data.dll.config
+E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Models.pdb
+E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Models.dll.config
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\EntityFramework.xml
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\EntityFramework.SqlServer.xml
 E:\CrossStitchery\CrossStitchery.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
@@ -14,9 +20,3 @@ E:\CrossStitchery\CrossStitchery.Services\obj\Debug\CrossStitchery.Services.cspr
 E:\CrossStitchery\CrossStitchery.Services\obj\Debug\CrossStitchery.Services.csproj.CopyComplete
 E:\CrossStitchery\CrossStitchery.Services\obj\Debug\CrossStitchery.Services.dll
 E:\CrossStitchery\CrossStitchery.Services\obj\Debug\CrossStitchery.Services.pdb
-E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Data.dll
-E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Models.dll
-E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Data.pdb
-E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Data.dll.config
-E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Models.pdb
-E:\CrossStitchery\CrossStitchery.Services\bin\Debug\CrossStitchery.Models.dll.config

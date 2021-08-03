@@ -1,0 +1,52 @@
+﻿
+@model CrossStitchery.Models.FlossDetail
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>FlossDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FlossId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FlossId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ColorNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ColorNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ColorName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ColorName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BobbinAmount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BobbinAmount)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.FlossId }) |
+    @Html.ActionLink("Delete", "Delete", new { id = Model.FlossId })|
+    @Html.ActionLink("Back to List", "Index")
+</p>

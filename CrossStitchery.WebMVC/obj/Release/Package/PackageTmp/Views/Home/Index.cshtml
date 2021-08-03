@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+    <div class="jumbotron">
+        <h1>Cross Stitchery</h1>
+        <p class="lead">Tired of not knowing if you have everything you need for your next project? Use Cross Stitchery to organize your floss, aida, and patterns. Once you add your current stock you can cross reference your supplies with patterns. If you are looking through patterns and find one you don't quite have everything you need then you can create a shopping list!</p>
+        <p><a class="btn btn-primary btn-lg"@Html.ActionLink("Learn More!", "About", "Home")</a></p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Floss</h2>
+            <p><img src="~/Images/Floss.JPG" alt="Floss" width="250" height="250"></p>
+            <p><a class="btn btn-default"@Html.ActionLink("Floss", "Index", "Floss")</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Aida</h2>
+            <p><img src="~/Images/Aida.jpeg" alt="Aida" width="250" height="250"></p>
+            <p><a class="btn btn-default"@Html.ActionLink("Aida", "Index", "Aida")</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Patterns</h2>
+            <p><img src="~/Images/Patterns.jpeg" alt="Patterns" width="250" height="250"></p>
+            <p><a class="btn btn-default" @Html.ActionLink("Patterns", "Index", "Patterns")</a></p>
+        </div>
+    </div>

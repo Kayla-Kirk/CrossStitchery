@@ -1,0 +1,45 @@
+﻿@model IEnumerable<CrossStitchery.Models.FlossListItem>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FlossId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ColorNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ColorName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FlossId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ColorNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ColorName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.FlossId}) |
+            @Html.ActionLink("Details", "Details", new { id = item.FlossId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.FlossId })
+        </td>
+    </tr>
+}
+
+</table>

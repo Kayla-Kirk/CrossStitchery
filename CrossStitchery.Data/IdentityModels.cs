@@ -35,8 +35,7 @@ namespace CrossStitchery.Data
         public DbSet<Floss> Floss { get; set; }
         public DbSet<Aida> Aida { get; set; }
         public DbSet<Pattern> Pattern { get; set; }
-        public DbSet<ShoppingList> ShoppingLists {get; set;}
-        public object ShoppingList { get; set; }
+        //public DbSet<ShoppingList> ShoppingLists {get; set;}
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

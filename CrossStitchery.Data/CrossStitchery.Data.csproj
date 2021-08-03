@@ -69,6 +69,10 @@
     <Compile Include="Migrations\202107230019213_Pattern.Designer.cs">
       <DependentUpon>202107230019213_Pattern.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202108032236560_UpdatedFiles.cs" />
+    <Compile Include="Migrations\202108032236560_UpdatedFiles.Designer.cs">
+      <DependentUpon>202108032236560_UpdatedFiles.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Pattern.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -87,6 +91,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202107230019213_Pattern.resx">
       <DependentUpon>202107230019213_Pattern.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202108032236560_UpdatedFiles.resx">
+      <DependentUpon>202108032236560_UpdatedFiles.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,5 +1,3 @@
-E:\CrossStitchery\CrossStitchery.WebMVC\obj\Debug\CrossStitchery.WebMVC.csproj.AssemblyReference.cache
-E:\CrossStitchery\CrossStitchery.WebMVC\obj\Debug\CrossStitchery.WebMVC.csproj.CoreCompileInputs.cache
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\CrossStitchery.WebMVC.dll.config
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\CrossStitchery.WebMVC.dll
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\CrossStitchery.WebMVC.pdb
@@ -88,6 +86,8 @@ E:\CrossStitchery\CrossStitchery.WebMVC\bin\CrossStitchery.Models.pdb
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\CrossStitchery.Models.dll.config
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\CrossStitchery.Services.pdb
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\CrossStitchery.Services.dll.config
+E:\CrossStitchery\CrossStitchery.WebMVC\bin\EntityFramework.xml
+E:\CrossStitchery\CrossStitchery.WebMVC\bin\EntityFramework.SqlServer.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\System.Web.Helpers.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\System.Web.Mvc.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\System.Web.Optimization.xml
@@ -97,8 +97,6 @@ E:\CrossStitchery\CrossStitchery.WebMVC\bin\System.Web.WebPages.Deployment.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\System.Web.WebPages.Razor.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\Newtonsoft.Json.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\Antlr3.Runtime.pdb
-E:\CrossStitchery\CrossStitchery.WebMVC\bin\EntityFramework.xml
-E:\CrossStitchery\CrossStitchery.WebMVC\bin\EntityFramework.SqlServer.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\Microsoft.AspNet.Identity.Core.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\Microsoft.AspNet.Identity.Owin.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
@@ -112,6 +110,8 @@ E:\CrossStitchery\CrossStitchery.WebMVC\bin\Microsoft.Owin.Security.Twitter.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\Microsoft.Owin.Security.OAuth.xml
 E:\CrossStitchery\CrossStitchery.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CrossStitchery\CrossStitchery.WebMVC\obj\Debug\CrossStitchery.WebMVC.csproj.AssemblyReference.cache
+E:\CrossStitchery\CrossStitchery.WebMVC\obj\Debug\CrossStitchery.WebMVC.csproj.CoreCompileInputs.cache
 E:\CrossStitchery\CrossStitchery.WebMVC\obj\Debug\CrossStitchery.WebMVC.csproj.CopyComplete
 E:\CrossStitchery\CrossStitchery.WebMVC\obj\Debug\CrossStitchery.WebMVC.dll
 E:\CrossStitchery\CrossStitchery.WebMVC\obj\Debug\CrossStitchery.WebMVC.pdb
