@@ -195,6 +195,7 @@
     <Content Include="Images\Aida.jpeg" />
     <Content Include="Images\Patterns.jpeg" />
     <Content Include="Images\Floss.JPG" />
+    <Content Include="Images\Wireframe.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Properties\PublishProfiles\CrossStitcheryWebMVC - Web Deploy.pubxml" />
